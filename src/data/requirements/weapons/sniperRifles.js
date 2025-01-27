@@ -125,7 +125,7 @@ export default {
         'Savanna': { amount: 15, type: 'eliminations' },
         'Splinter': { amount: 20, type: 'eliminations' },
         'Moss': { amount: 30, type: 'eliminations' },
-        'Shade': { amount: 40, type: 'eliminations' },
+        'Saboteur': { amount: 40, type: 'eliminations' },
         'Digital': { amount: 50, type: 'eliminations' },
         'Tide': { amount: 75, type: 'eliminations' },
         'Red Tiger': { amount: 100, type: 'eliminations' },
